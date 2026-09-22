@@ -1,0 +1,4 @@
+Parameter,Auralin (Test) N=174,Novodra (Control) N=175,Difference (Auralin-Novodra),p-value
+"Baseline HbA1c, %",7.96 (0.57),7.95 (0.52),-,-
+"Week 24 HbA1c, %",7.57 (0.57),7.55 (0.53),-,-
+"Change from Baseline, %",-0.39 (0.06),-0.40 (0.06),"0.02 (95% CI: 0.01, 0.03)",0.0044
